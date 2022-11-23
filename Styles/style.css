@@ -73,6 +73,7 @@
     background-color: grey;
     display:flex;
     padding: 0px 30px;
+    justify-content: space-around;
 }
 
 .flex-item{
